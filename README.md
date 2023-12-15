@@ -11,11 +11,14 @@ Mémoire Conversationnelle : Le chatbot utilise une mémoire conversationnelle p
 
 ## Méthodologie
 Préparation des Données : Nettoyage et structuration de datasets importants, y compris Wikipedia Movie Plots.
+
 Innovations Techniques : Utilisation de la quantization, gestion de la mémoire GPU, et prompts spécifiques pour optimiser la performance du chatbot.
+
 Modèles Utilisés : Test de deux versions du modèle LLama - LLama 2-13b-chat et LLama 2-7b-chat, avec une analyse comparative de leurs performances.
 
 ## Résultats et Analyse
 Performances : Évaluation basée sur la précision des recommandations, la cohérence des conversations, et l'exploitation de la mémoire conversationnelle pour des recommandations personnalisées.
+
 Améliorations Futures : Exploration continue de techniques avancées pour améliorer la précision des recommandations et enrichir l'expérience utilisateur.
 
 ## Conclusion
