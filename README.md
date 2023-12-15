@@ -1,4 +1,4 @@
-# Chatbot de Recommandations de Films - Projet NLP
+# Chatbot de Recommandations de Films
 ## Introduction
 
 Ce projet développe un chatbot innovant pour la recommandation de films, exploitant des modèles de langage à grande échelle (LLMs) comme ChatGPT. Il se distingue par l'utilisation de techniques avancées comme le Retrieval-Augmented Generation (RAG) et la mémoire conversationnelle, offrant des recommandations de films personnalisées et contextuelles.
